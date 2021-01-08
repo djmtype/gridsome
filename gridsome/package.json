@@ -52,7 +52,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "fs-extra": "^7.0.1",
     "globby": "^9.0.0",
-    "graphql": "^14.4.2",
+    "graphql": "github:djmtype/graphql",
     "graphql-compose": "7.20.1",
     "graphql-playground-middleware-express": "^1.7.12",
     "hash-sum": "^1.0.2",
