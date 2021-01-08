@@ -7,7 +7,7 @@
 
 <h1 align="center">Gridsome</h1>
 <p align="center">
-Made to work with @gridsome/source-graphql plugin
+Forked version in order to work with @gridsome/source-graphql plugin
 </p>
 
 <h3 align="center">Build super fast, modern websites with Vue.js</h3>
