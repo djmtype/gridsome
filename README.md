@@ -6,6 +6,10 @@
 </p>
 
 <h1 align="center">Gridsome</h1>
+<p align="center">
+Made to work with @gridsome/source-graphql plugin
+</p>
+
 <h3 align="center">Build super fast, modern websites with Vue.js</h3>
 <p align="center">
 Gridsome is a <a href="//vuejs.org">Vue-powered</a> static site generator for building CDN-ready websites for any headless CMS, local files or APIs
